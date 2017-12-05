@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>clojure</packaging>
 
-  <name>Excel workbook-sheet cat</name>
+  <name>sheetcat</name>
   <description>Con(cat)enates sheets of several Excel workbooks</description>
 
   <build>
