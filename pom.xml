@@ -8,6 +8,7 @@
   <packaging>clojure</packaging>
 
   <name>Excel workbook-sheet cat</name>
+  <description>Con(cat)enates sheets of several Excel workbooks</description>
 
   <build>
     <plugins>

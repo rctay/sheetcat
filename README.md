@@ -1,4 +1,8 @@
-Concatenates sheets of several Excel workbooks.
+Con(cat)enates sheets of several Excel workbooks, at the same time validating
+they have a common structure of:
+- serial number (increasing integer)
+- identifier (eg. SSN/NRIC)
+- date (constant throughout)
 
 - Apache POI: for parsing Excel
 - written in Clojure
